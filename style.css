@@ -1,0 +1,20 @@
+#webcam{
+    width:365px;
+    height:345px;
+    border-style:dashed;
+    border-width:3px;
+    border-color:midnightblue;
+}
+body{
+    background-color:powderblue;
+}
+#heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:50px;
+    width:80%;
+}
+#object,#accuracy{
+    font-size: 30px;
+    color:midnightblue;
+    font-weight: bold;
+}
